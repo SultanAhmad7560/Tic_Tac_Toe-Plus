@@ -4,6 +4,16 @@
 
 ![image](https://user-images.githubusercontent.com/71124592/211892312-304065e4-4d2b-448d-8040-30515f80db57.png)
 
+<h2 align= "left">How to play</h2>
+
+-Make sure you have Visual studio setup with all requirements for c++ ans windows forms.
+
+-Head to Project-TIC-TAC-TOE\x64\Debug.
+
+-Run .exe file.
+
+-Thats all.
+
 <h2 align= "left">Objectives</h2>
 
 -The game was build as a final project for PF class at my university.
@@ -17,6 +27,7 @@
 -This project was made in collaboration with my team mate and friend @SultanAhmad7560.
 
 <h2 align= "left">License & Usage</h2>
+
 -MIT
 
 -Pledgerism is highly discouraged and is recommended that if you're a student please dont copy although you can reach out to me.
