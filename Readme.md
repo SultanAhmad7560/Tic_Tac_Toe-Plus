@@ -18,4 +18,5 @@
 
 <h2 align= "left">License & Usage</h2>
 -MIT
+
 -Pledgerism is highly discouraged and is recommended that if you're a student please dont copy although you can reach out to me.
