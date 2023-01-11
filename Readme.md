@@ -6,13 +6,16 @@
 
 <h2 align= "left">How to play</h2>
 
--Make sure you have Visual studio setup with all requirements for c++ ans windows forms.
+-Make sure you have Visual studio setup with all requirements for c++ and windows forms.
 
 -Head to Project-TIC-TAC-TOE\x64\Debug.
 
 -Run .exe file.
 
--Thats all.
+-When opened exe you may click the start button at loading screen to start from there on you can see the guide present in the main menu.
+   - CLICK P1 VS COM (For single-player experience)
+   - CLICK P1 VS P2 (For multi-player experience)
+   - CLICK Practice (practice your skills)
 
 <h2 align= "left">Objectives</h2>
 
