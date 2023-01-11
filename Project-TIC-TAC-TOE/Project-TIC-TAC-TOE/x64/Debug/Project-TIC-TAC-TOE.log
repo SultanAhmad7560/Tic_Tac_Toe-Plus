@@ -1,0 +1,9 @@
+﻿  COM.cpp
+  EASY.cpp
+  GUIDE.cpp
+  LOADINGSCREEN.cpp
+C:\Users\Sultan's PC\Desktop\PROJEXTS\123\Project-TIC-TAC-TOE\Project-TIC-TAC-TOE\LOADINGSCREEN.cpp(9,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  P1VSCOM.cpp
+  Generating Code...
+  About.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Project-TIC-TAC-TOE.vcxproj -> C:\Users\Sultan's PC\Desktop\PROJEXTS\123\Project-TIC-TAC-TOE\x64\Debug\Project-TIC-TAC-TOE.exe
